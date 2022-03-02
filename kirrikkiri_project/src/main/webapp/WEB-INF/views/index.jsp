@@ -26,7 +26,7 @@
 	            <article>             
 	                <div class="slider-1">
 	                    <div class="slides">
-	                        <div class="active" style="background-image:url(image/slide_img_01.jpg);">></div>
+	                        <div class="active" style="background-image:url(image/slide_img_01.jpg);"></div>
 	                        <div style="background-image:url(image/slide_img_02.jpg);"></div>
 	                        <div style="background-image:url(image/slide_img_03.jpg);"></div>
 	                        <div style="background-image:url(image/slide_img_04.jpg);"></div>

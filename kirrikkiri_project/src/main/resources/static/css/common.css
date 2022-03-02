@@ -253,12 +253,12 @@ a {
 
 #footerInfo > div {
   margin-top: 18px;
-  color:#e9e7e3;
+  color:#4c5064;
 }
 
 #footer a {
   text-decoration: none;
-  color: #e9e7e3;
+  color: #4c5064;
   margin: 0 12px 0 0;
 }
 
@@ -272,7 +272,7 @@ a {
   top: 90%;
   left: 90%;
   font-size: 50px;
-  color:#e9e7e3;
+  color:#4c5064;
 }
 
 #toTopBtn:hover {
@@ -286,7 +286,7 @@ a {
   top: 84%;
   left: 90%;
   font-size: 50px;
-  color:#e9e7e3;
+  color:#4c5064;
 }
 
 #chatbot:hover {

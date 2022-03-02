@@ -28,7 +28,7 @@ nav .menu-btn {
 nav .menu-btn .line {
   padding: 0;
   width: 30px;
-  background:#e9e7e3;
+  background:#4c5064;
   height: 2px;
   margin: 5px 0;
   transition: all 700ms cubic-bezier(0.9, 0, 0.33, 1);
@@ -42,7 +42,7 @@ nav .menu-btn .line.line--1 {
 nav .menu-btn .line.line--1.line-cross {
   width: 30px;
   transform: rotate(45deg) translateY(10px);
-  background: #e9e7e3;
+  background: #4c5064;
 }
 
 nav .menu-btn .line.line--2 {
@@ -64,7 +64,7 @@ nav .menu-btn .line.line--3 {
 nav .menu-btn .line.line--3.line-cross {
   width: 30px;
   transform: rotate(-45deg) translateY(-10px);
-  background: #e9e7e3;
+  background: #4c5064;
 }
 
 nav .nav-links {
@@ -103,14 +103,14 @@ nav .nav-links .link:hover {
 
 .link a {
   margin: 0 20px;
-  color: rgb(70, 53, 40);
+  color: #4c5064;
   font-size: 18px;
   transition: all 400ms ease;
   font-size: 18px;
 }
 
 a:hover {
-  color: #8b6452;
+  color: #c6c7ce;
 }
 
 #subMenuList {
@@ -121,7 +121,7 @@ a:hover {
   list-style: none;
   position: absolute;
   top: -100px;
-  background: #e0d0c0;
+  background: #A09FB7;
   z-index: 100;
   border-top-right-radius: 78px;
   border-bottom-right-radius: 78px;

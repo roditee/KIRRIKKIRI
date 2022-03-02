@@ -59,7 +59,7 @@
 
 #profileInfoGroup {
   float: left;
-  background: #9b8373;
+  background: #bcbdcc;
   width: 820px;
   margin-left: 65px;
   padding-left: 25px;
@@ -111,7 +111,7 @@
   line-height: 40px;
   padding: 0 15px;
   margin: 0 5px 7px 5px;
-  background: #ebc14b;
+  background: #ffd766;
   border-style: none;
 }
 
@@ -142,7 +142,7 @@
   margin: 0 15px;
   border-radius: 50px;
   font-size: 20px;
-  background: #ebc14b;
+  background: #ffd766;
   border-style: none;
 }
 
@@ -150,7 +150,7 @@
 	background: #c0633f;
 }
 
-/************* 李� 紐⑸줉 ************/
+/************* 筌∽옙 筌뤴뫖以� ************/
 #wishGroup {
   margin: 0 115px 115px 115px;
   overflow: hidden;
@@ -181,7 +181,7 @@
   display: inline;
 }
 
-/************* 李� 紐⑸줉 �뒳�씪�씠�뱶 ************/
+/************* 筌∽옙 筌뤴뫖以� 占쎈뮩占쎌뵬占쎌뵠占쎈굡 ************/
 #wishBtnGroup {
   position: relative;
   z-index: 10;
@@ -212,7 +212,7 @@
   opacity: 0.8;
 }
 
-/************* �궡 寃뚯떆湲� ************/
+/************* 占쎄땀 野껊슣�뻻疫뀐옙 ************/
 #myPostGroup {
   padding: 0 115px 115px 115px;
 }

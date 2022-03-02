@@ -18,14 +18,14 @@ div.create {
   width: 800px;
   text-align: center;
   padding: 30px;
-  border-bottom: 1px solid #7e5c48;
+  border-bottom: 1px solid #6a6a6a;
   margin: auto;
 }
 
 table {
   height: 300px;
   width: 900px;
-  border-top: 3px solid #7e5c48;
+  border-top: 3px solid #6a6a6a;
   margin-right: auto;
   margin-left: auto;
 }
@@ -39,7 +39,7 @@ caption {
 }
 
 .col1 {
-  background-color: #e0d0c0;
+  background-color: #AAA5BA;
   padding: 10px;
   text-align: right;
   font-weight: bold;
@@ -95,34 +95,34 @@ caption {
 }
 
 .btn1:hover {
-  background-color: #d1a880;
+  background-color: #e5c9ac;
   color: black;
-  border: 2px solid #d7af86;
+  border: 2px solid #e2d8ce;
 }
 
 .btn2:hover {
-  background-color: #d1a880;
+  background-color: #e5c9ac;
   color: black;
-  border: 2px solid #d7af86;
+  border: 2px solid #e2d8ce;
 }
 
 .btn3:hover {
-  background-color: #d1a880;
-  color: white;
-  border: 2px solid #d7af86;
+  background-color: #e5c9ac;
+  color: black;
+  border: 2px solid #e2d8ce;
 }
 
 .btn4:hover {
-  background-color: #d1a880;
-  color: white;
-  border: 2px solid #d7af86;
+  background-color: #e5c9ac;
+  color: black;
+  border: 2px solid #e2d8ce;
 }
 
 .btn5:hover {
-  background-color: #d1a880;
+  background-color: #e5c9ac;
   padding: 5px 5px;
-  color: white;
-  border: 3px solid #d7af86;
+  color: black;
+  border: 3px solid #e2d8ce;
   border-radius: 12px;
   margin: 10px;
   font-size: 0.8rem;
@@ -210,11 +210,11 @@ p {
   width: 10px;
 }
 .agreebox::-webkit-scrollbar-thumb {
-  background-color: #d1a880;
+  background-color: #aaa5ba;
   border-radius: 10px;
 }
 .agreebox::-webkit-scrollbar-track {
-  background-color: #f2dcac;
+  background-color: #bcbdcc;
   border-radius: 10px;
   box-shadow: inset 0px 0px 5px white;
 }
